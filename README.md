@@ -17,9 +17,7 @@
 
 ## About The Project
 
-Welcome to the open data road pavement repository! This repository is dedicated to storing datasets that contain open data on road pavements. The datasets in this repository include information on road pavement surveys, visual inspections, and pavement defects. This data will be useful for researchers and others who are interested in studying the condition of road pavements and the factors that can affect their performance. The datasets will be regularly updated as new data becomes available. We hope that this repository will help to advance the understanding of road pavements and contribute to the development of more effective pavement maintenance and repair strategies.
-
-In addition to providing datasets, this repository is also open to collaborations with other organizations and individuals. If you are interested in contributing to the repository, please see the instructions at the Contributing section of the README.md file. We welcome any contributions that will help to expand the scope and quality of the data in this repository. By working together, we can help to advance the understanding of road pavements and improve their performance.
+This repository stores **open data** about road pavements, including information on surveys, inspections, and defects. It is meant for researchers and others interested in studying road pavement conditions and maintenance. The repository is **open to collaborations** and welcomes contributions that can expand and improve the data. The goal is to improve understanding of road pavements and maintenance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
